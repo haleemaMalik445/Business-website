@@ -1,0 +1,13 @@
+*{margin: 0px;
+    padding: 0px;}
+    body{margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;}
+    .slide{height: 100%;
+    width: 210px;
+    position: absolute;
+    transition: 0.5s ease;
+    background-color: rgb(12, 12, 12);
+    /* transform: translateX(-180px); */
+    float: right;
+}

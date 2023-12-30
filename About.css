@@ -1,0 +1,64 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  height: 1200px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(0, 184, 54, 255);
+}
+
+.aboutus {
+  margin-top: 90px;
+  text-align: center;
+  justify-content: center;
+}
+
+h6 {
+  margin-bottom: 10px;
+  font-size: large;
+  color: black;
+}
+
+h1 {
+  margin-bottom: 17px;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.par p {
+  border: 2px solid rgb(0, 184, 55);
+  height: 230px;
+  width: 850px;
+  margin-top: 65px;
+  margin-bottom: 65px;
+  margin-left: 220px;
+  font-size: x-large;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black
+}
+
+.line {
+  width: 300px;
+  margin-left: 530px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.ourProgress h1 {
+  color: white;
+  font-size: xx-large;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ourProgress p {
+  font-family: Arial, Helvetica, sans-serif;
+}
